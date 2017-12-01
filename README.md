@@ -1,10 +1,11 @@
-# php-tokenizr
+# tokenizr-php
 
-Salted, SHA256-hashed token generation and checking for your Hummingbird Lite instances
+Salted, SHA256-hashed token generation and checking
 
 ## Requirements
 
-PHP 5.2+ with the Hash extension
+- PHP 5.2+ with the Hash extension
+- Hummingbird Lite 3.x or newer
 
 ## Basic usage
 
