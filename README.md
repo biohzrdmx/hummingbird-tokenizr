@@ -1,4 +1,4 @@
-# hummingbird-tokenizr
+# php-tokenizr
 
 Salted, SHA256-hashed token generation and checking for your Hummingbird Lite instances
 
@@ -32,7 +32,7 @@ Also note that the data is saved in plain sight, THIS CLASS IS NOT DESIGNED TO E
 
 The MIT License (MIT)
 
-Copyright (c) 2016 biohzrdmx
+Copyright (c) 2017 biohzrdmx
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
